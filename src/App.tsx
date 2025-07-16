@@ -1,5 +1,5 @@
 import React from 'react';
-import DepthMenuTree from './components/DepthMenuTree.tsx';
+import DepthMenuTree from './components/DepthMenuTree';
 import './App.css';
 
 function App() {
