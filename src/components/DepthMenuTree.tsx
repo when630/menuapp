@@ -118,7 +118,7 @@ const DepthMenuTree = () => {
             </div>
             <div className="modal-footer">
               <button className="btn edit">수정하기</button>
-              <button className="btn send">내파일로 보내기</button>
+              <button className="btn send">내 파일로 보내기</button>
             </div>
           </div>
         </div>
