@@ -255,3 +255,10 @@ body {
 .modal-footer .btn.edit:hover {
   background-color: #e0e0e0;
 }
+
+.depth3-count {
+  font-size: 0.9rem;
+  font-weight: normal;
+  color: #666;
+  margin-left: 0.5rem;
+}

@@ -91,7 +91,9 @@ const DepthMenuTree = () => {
 
       {selectedDepth2 && (
         <div className="depth3-content">
-          <h3>{selectedDepth2} 목록</h3>
+          <h3>
+            {selectedDepth2} 목록<span className="depth3-count">({depth3List.length}개)</span>
+          </h3>
           <ul className="depth3-list">
           {depth3List.map((d3, idx) => (
             <li
